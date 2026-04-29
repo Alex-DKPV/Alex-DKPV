@@ -2,7 +2,7 @@
 
 ### Architecte Cybersécurité & Réseaux | Cotonou, Bénin
 
-> *Je conçois, sécurise et documente des infrastructures critiques. Chaque compétence affichée ici est prouvable sur GitHub.*
+> *Je conçois, sécurise et documente des infrastructures critiques.*
 
 ---
 
@@ -10,8 +10,7 @@
 
 - Spécialisé en **IDS/IPS**, **architecture réseau sécurisée** et **défense active**
 - Fondateur de **NEXWARDEN** — environnement de labs cybersécurité vérifiables
-- Technicien Système & Réseau au **Ministère de l'Économie et des Finances du Bénin**
-- Passionné par la sécurité des infrastructures IT réalistes
+- Passionné par la sécurité des infrastructures IT 
 
 ---
 
@@ -61,6 +60,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexnetwarden-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexnetwarden)
 [![GitHub](https://img.shields.io/badge/GitHub-Alex--DKPV-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-DKPV)
 
----
-
-*Principe NEXWARDEN : aucune compétence sans preuve GitHub correspondante.*
