@@ -29,6 +29,48 @@
 ---
 
 ## Projets GitHub
+ctrl+a Backspace# 🛡️ Alexandre Dossoukpevi
+### Architecte Cybersécurité & Réseaux | Cotonou, Bénin
+
+> **"L'excellence par la preuve technique."**  
+> Je conçois, sécurise et documente des infrastructures critiques au sein de l'écosystème **NEXWARDEN**.
+
+---
+
+### 🔍 À propos
+- 🛡️ **Spécialisation** : IDS/IPS (Suricata), Architectures Réseau Hautement Disponibles, Défense Active.
+- 🚀 **NEXWARDEN** : Fondateur d'un environnement de labs cybersécurité réalistes et vérifiables.
+- 👨‍💻 **Engagement** : Passionné par l'automatisation de la sécurité (SOC/SIEM) et le hardening des systèmes Linux.
+
+---
+
+### 🛠️ Stack Technique
+
+| Domaine | Outils & Technologies |
+| :--- | :--- |
+| **IDS/IPS & SIEM** | Suricata · Snort · Wazuh · ELK Stack · TheHive |
+| **Network & Routing** | VyOS · pfSense · OPNsense · Cisco (IOS) · VLAN 802.1Q |
+| **Virtualisation** | VMware ESXi/Workstation · GNS3 · Proxmox · Docker |
+| **Sécurité Offensive** | Kali Linux · Nmap · Metasploit · Burp Suite |
+| **Scripting & Ops** | Bash · Python · Ansible (Automation) · Markdown |
+
+---
+
+### 📁 Projets Phares
+
+#### 🛡️ [NEXWARDEN](https://github.com/Alex-DKPV/NEXWARDEN)
+*Mon centre névralgique.* Regroupe mon mémoire IDS Suricata (validé), des configurations d'équipements réels, et des rapports d'audit.
+
+#### 🏦 [nexwarden-labs — Architecture Bancaire](https://github.com/Alex-DKPV/nexwarden-labs)
+Conception d'une infrastructure multi-zones sécurisée (DMZ, SOC, LAN) simulant un environnement bancaire critique.
+
+---
+
+### 💬 Me contacter
+[LinkedIn](https://www.linkedin.com/in/nexwarden) • [CV Portfolio](https://alex-dkpv.github.io/NEXWARDEN/cv_alex.html) • [Email](mailto:dkpvalex@gmail.com)
+
+---
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Alex-DKPV&show_icons=true&theme=tokyonight)
 
 ### NEXWARDEN — Projet académique & Labs
 > Mémoire IDS Suricata validé · Configs · Scripts · Rapports de pentest
